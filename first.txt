@@ -2,4 +2,7 @@ creating this file using echo
 
 
 
-now editing it manually to see how it works
+now editing it manually to see how it work
+
+editing with DE1 and see the result
+

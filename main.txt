@@ -1,0 +1,2 @@
+This is main text file which is developed by DE1
+again edited by DE1 but by using github directly
